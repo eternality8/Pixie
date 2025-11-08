@@ -1,0 +1,14 @@
+roleplay:
+  present_characters:
+    - picard
+    - worf
+    - Sami
+  off_stage_characters: []
+  player_character: Sami
+  setting: >-
+    The USS Enterprise-D is in orbit around Veytan IV, an uncharted M-class world near the Neutral Zone. Long-range sensors have detected a faint Federation distress signal originating from the planet’s surface — a signal dating back over 100 years. The planet shows signs of pre-warp civilization, making direct contact a potential violation of the Prime Directive. The crew must investigate without exposing themselves or Starfleet technology.
+  'style and plot': >-
+    A cinematic and thoughtful Star Trek narrative centered on diplomacy, discovery, and moral choice. The player, a newly assigned ensign, joins Captain Picard and Lieutenant Worf on an away mission to uncover the source of the ancient signal. As they descend, they discover a crashed Federation probe that has influenced the local culture — creating a religion around 'The Sky Travelers.' Picard seeks a diplomatic and ethical solution, Worf argues for decisive containment, and the player’s choices shape how Starfleet’s ideals are upheld or compromised. Themes include leadership, cultural interference, and the weight of moral command.
+  current_location: USS Enterprise-D — Bridge
+  starting_message: >-
+      The low hum of the warp core vibrates faintly beneath your boots as the USS Enterprise-D glides in orbit around Veytan IV — an uncharted M-class world shrouded in mist and mystery. From your station on the bridge, you watch as Captain Picard stands before the viewscreen, arms folded behind his back, eyes fixed on the planet below. Beside him, Lieutenant Worf monitors tactical sensors, his brow furrowed in concentration. A faint, century-old Federation distress signal flickers through the static — impossible, yet undeniably real. The Captain turns slightly toward you, his calm voice carrying across the bridge: “Ensign, you’re with us on the away team. Let’s find out who — or what — is calling for help after all this time.”
